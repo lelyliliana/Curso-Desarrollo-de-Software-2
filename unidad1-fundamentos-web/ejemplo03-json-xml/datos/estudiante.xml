@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estudiante>
+    <nombre>Sebastián</nombre>
+    <apellido>Alarcón</apellido>
+    <identificacion>1234</identificacion>
+
+    <notas>
+        <nota>3.2</nota>
+        <nota>4.4</nota>
+        <nota>2.0</nota>
+        <nota>5.0</nota>
+    </notas>
+</estudiante>

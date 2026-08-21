@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Manipulación del DOM</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <main class="contenedor">
+
+        <h1>Manipulación del DOM con JavaScript</h1>
+
+        <p>
+            Agregue estudiantes utilizando el formulario.
+            JavaScript modificará dinámicamente la página.
+        </p>
+
+        <section class="panel">
+
+            <h2>Registrar estudiante</h2>
+
+            <form id="formEstudiante">
+
+                <div class="campo">
+                    <label for="nombre">
+                        Nombre
+                    </label>
+
+                    <input
+                        type="text"
+                        id="nombre"
+                        required
+                    >
+                </div>
+
+                <div class="campo">
+                    <label for="programa">
+                        Programa
+                    </label>
+
+                    <input
+                        type="text"
+                        id="programa"
+                        required
+                    >
+                </div>
+
+                <button type="submit">
+                    Agregar estudiante
+                </button>
+
+            </form>
+
+        </section>
+
+        <section class="panel">
+
+            <div class="encabezado-lista">
+
+                <h2>Estudiantes registrados</h2>
+
+                <button
+                    type="button"
+                    id="btnEliminarTodos"
+                    class="boton-secundario"
+                >
+                    Eliminar todos
+                </button>
+
+            </div>
+
+            <p id="contador">
+                Total de estudiantes: 0
+            </p>
+
+            <p id="mensajeVacio">
+                No hay estudiantes registrados.
+            </p>
+
+            <ul id="listaEstudiantes"></ul>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

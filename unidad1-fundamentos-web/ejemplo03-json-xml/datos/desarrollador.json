@@ -1,0 +1,14 @@
+{
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "identificacion": 123456,
+  "lenguajes": [
+    "Java",
+    "Kotlin",
+    "C++"
+  ],
+  "idiomas": [
+    "inglés",
+    "alemán"
+  ]
+}

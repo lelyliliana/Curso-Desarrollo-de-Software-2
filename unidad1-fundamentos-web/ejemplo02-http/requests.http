@@ -1,0 +1,96 @@
+### ==================================================
+### EJEMPLO 02 - MÉTODOS HTTP
+### ==================================================
+
+
+### 1. GET - Consultar todos los estudiantes
+
+GET http://localhost:3000/estudiantes
+
+
+### --------------------------------------------------
+### 2. GET - Consultar estudiante por ID
+### --------------------------------------------------
+
+GET http://localhost:3000/estudiantes/1
+
+
+### --------------------------------------------------
+### 3. GET - Estudiante inexistente
+### Debe responder 404
+### --------------------------------------------------
+
+GET http://localhost:3000/estudiantes/999
+
+
+### --------------------------------------------------
+### 4. POST - Crear estudiante
+### --------------------------------------------------
+
+POST http://localhost:3000/estudiantes
+Content-Type: application/json
+
+{
+    "nombre": "Laura",
+    "programa": "Ingeniería de Sistemas"
+}
+
+
+### --------------------------------------------------
+### 5. POST - Datos incompletos
+### Debe responder 400
+### --------------------------------------------------
+
+POST http://localhost:3000/estudiantes
+Content-Type: application/json
+
+{
+    "nombre": "Pedro"
+}
+
+
+### --------------------------------------------------
+### 6. PUT - Reemplazar estudiante
+### --------------------------------------------------
+
+PUT http://localhost:3000/estudiantes/1
+Content-Type: application/json
+
+{
+    "nombre": "Ana María",
+    "programa": "Ingeniería de Sistemas"
+}
+
+
+### --------------------------------------------------
+### 7. PATCH - Modificar solamente un campo
+### --------------------------------------------------
+
+PATCH http://localhost:3000/estudiantes/1
+Content-Type: application/json
+
+{
+    "nombre": "Ana Sofía"
+}
+
+
+### --------------------------------------------------
+### 8. DELETE - Eliminar estudiante
+### --------------------------------------------------
+
+DELETE http://localhost:3000/estudiantes/2
+
+
+### --------------------------------------------------
+### 9. OPTIONS
+### Consultar métodos disponibles
+### --------------------------------------------------
+
+OPTIONS http://localhost:3000/estudiantes
+
+
+### --------------------------------------------------
+### 10. Ruta inexistente
+### --------------------------------------------------
+
+GET http://localhost:3000/no-existe

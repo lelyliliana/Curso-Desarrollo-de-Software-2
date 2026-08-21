@@ -1,0 +1,11 @@
+{
+  "nombre": "Sebastián",
+  "apellido": "Alarcón",
+  "identificacion": 1234,
+  "notas": [
+    3.2,
+    4.4,
+    2.0,
+    5.0
+  ]
+}

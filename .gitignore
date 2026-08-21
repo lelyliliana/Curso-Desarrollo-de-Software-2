@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+dist/
+
+# Java / Maven
+target/
+
+# Variables de entorno
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

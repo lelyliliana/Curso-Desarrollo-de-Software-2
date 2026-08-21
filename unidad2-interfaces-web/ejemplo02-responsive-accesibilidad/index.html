@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Diseño responsivo y accesibilidad</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header class="encabezado">
+        <h1>Portal de cursos</h1>
+
+        <nav aria-label="Navegación principal">
+            <ul class="menu">
+                <li>
+                    <a href="#inicio">Inicio</a>
+                </li>
+
+                <li>
+                    <a href="#cursos">Cursos</a>
+                </li>
+
+                <li>
+                    <a href="#contacto">Contacto</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="inicio" class="presentacion">
+
+            <div>
+                <h2>Bienvenido</h2>
+
+                <p>
+                    Este ejemplo permite observar cómo una página
+                    puede adaptarse a diferentes tamaños de pantalla
+                    y aplicar prácticas básicas de accesibilidad.
+                </p>
+
+                <a class="boton" href="#cursos">
+                    Ver cursos
+                </a>
+            </div>
+
+            <img
+                src="https://placehold.co/600x400"
+                alt="Computador portátil utilizado para estudiar cursos virtuales"
+            >
+
+        </section>
+
+        <section id="cursos" class="seccion">
+
+            <h2>Cursos disponibles</h2>
+
+            <div class="tarjetas">
+
+                <article class="tarjeta">
+                    <h3>Desarrollo de Software II</h3>
+
+                    <p>
+                        Fundamentos de desarrollo web,
+                        Front End y Back End.
+                    </p>
+                </article>
+
+                <article class="tarjeta">
+                    <h3>Programación Web</h3>
+
+                    <p>
+                        Desarrollo de interfaces con
+                        HTML, CSS y JavaScript.
+                    </p>
+                </article>
+
+                <article class="tarjeta">
+                    <h3>APIs REST</h3>
+
+                    <p>
+                        Construcción y consumo de
+                        servicios web.
+                    </p>
+                </article>
+
+            </div>
+
+        </section>
+
+        <section id="contacto" class="seccion">
+
+            <h2>Contacto</h2>
+
+            <form>
+
+                <div class="campo">
+                    <label for="nombre">
+                        Nombre
+                    </label>
+
+                    <input
+                        type="text"
+                        id="nombre"
+                        name="nombre"
+                        required
+                    >
+                </div>
+
+                <div class="campo">
+                    <label for="correo">
+                        Correo electrónico
+                    </label>
+
+                    <input
+                        type="email"
+                        id="correo"
+                        name="correo"
+                        required
+                    >
+                </div>
+
+                <div class="campo">
+                    <label for="mensaje">
+                        Mensaje
+                    </label>
+
+                    <textarea
+                        id="mensaje"
+                        name="mensaje"
+                        rows="5"
+                        required
+                    ></textarea>
+                </div>
+
+                <button type="submit">
+                    Enviar mensaje
+                </button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>
+            Ejemplo académico - Desarrollo de Software II
+        </p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<desarrollador>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <identificacion>123456</identificacion>
+
+    <lenguajes>
+        <lenguaje>Java</lenguaje>
+        <lenguaje>Kotlin</lenguaje>
+        <lenguaje>C++</lenguaje>
+    </lenguajes>
+
+    <idiomas>
+        <idioma>inglés</idioma>
+        <idioma>alemán</idioma>
+    </idiomas>
+</desarrollador>

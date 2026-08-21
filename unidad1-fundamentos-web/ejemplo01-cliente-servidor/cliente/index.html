@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Comunicación cliente-servidor</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <main class="contenedor">
+
+        <h1>Comunicación cliente-servidor</h1>
+
+        <p>
+            Este ejemplo permite observar cómo un cliente realiza
+            una solicitud HTTP a un servidor y recibe una respuesta.
+        </p>
+
+        <section class="acciones">
+
+            <button id="btnSolicitar">
+                Solicitar mensaje
+            </button>
+
+            <button id="btnError">
+                Probar ruta inexistente
+            </button>
+
+        </section>
+
+        <section class="resultado">
+
+            <h2>Respuesta mostrada al usuario</h2>
+
+            <p id="respuesta">
+                Aún no se ha realizado ninguna solicitud.
+            </p>
+
+        </section>
+
+        <section class="detalles">
+
+            <h2>Detalles de la comunicación HTTP</h2>
+
+            <p>
+                <strong>Método HTTP:</strong>
+                <span id="metodo">-</span>
+            </p>
+
+            <p>
+                <strong>URL solicitada:</strong>
+                <span id="url">-</span>
+            </p>
+
+            <p>
+                <strong>Código de estado:</strong>
+                <span id="estado">-</span>
+            </p>
+
+            <p>
+                <strong>Respuesta JSON:</strong>
+            </p>
+
+            <pre id="json">-</pre>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

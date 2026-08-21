@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 30px;
+}
+
+.contenedor {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h1,
+h2 {
+    margin-top: 0;
+}
+
+.acciones {
+    margin: 30px 0;
+}
+
+button {
+    padding: 12px 18px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.resultado,
+.detalles {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+}
+
+pre {
+    background-color: #f3f3f3;
+    padding: 15px;
+    overflow-x: auto;
+}

@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 30px;
+
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+
+    background-color: #f4f4f4;
+    color: #222222;
+}
+
+.contenedor {
+    max-width: 800px;
+    margin: auto;
+}
+
+.panel {
+    margin-top: 25px;
+    padding: 25px;
+
+    background-color: #ffffff;
+
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+}
+
+.campo {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+
+    border: 1px solid #777777;
+    border-radius: 4px;
+
+    font-size: 1rem;
+}
+
+button {
+    padding: 10px 15px;
+
+    border: none;
+    border-radius: 5px;
+
+    background-color: #222222;
+    color: #ffffff;
+
+    cursor: pointer;
+}
+
+button:hover,
+button:focus {
+    opacity: 0.85;
+}
+
+.boton-secundario {
+    background-color: #555555;
+}
+
+.encabezado-lista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+#listaEstudiantes {
+    padding: 0;
+    list-style: none;
+}
+
+.estudiante {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 20px;
+
+    margin-top: 10px;
+    padding: 15px;
+
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+
+.estudiante-info {
+    flex: 1;
+}
+
+.estudiante-nombre {
+    display: block;
+    font-weight: bold;
+}
+
+.estudiante-programa {
+    display: block;
+    margin-top: 4px;
+}
+
+.boton-eliminar {
+    background-color: #444444;
+}
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 15px;
+    }
+
+    .encabezado-lista,
+    .estudiante {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+}
