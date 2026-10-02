@@ -373,7 +373,7 @@ localhost
 Considere:
 
 ```text id="b21m0n"
-https://www.uniremington.edu.co/
+https://www.example.com/
 ```
 
 Podemos identificar:
@@ -383,7 +383,7 @@ https
 │
 └── mecanismo utilizado para acceder al recurso
 
-www.uniremington.edu.co
+www.example.com
 │
 └── dominio
 ```
@@ -459,7 +459,7 @@ El módulo lo describe como el sistema encargado de traducir nombres de dominio 
 Los usuarios suelen utilizar direcciones como:
 
 ```text id="d49g8y"
-www.uniremington.edu.co
+www.example.com
 ```
 
 pero los dispositivos se comunican utilizando direcciones IP.
@@ -511,7 +511,7 @@ Servidor
 En sistemas donde se encuentre disponible, puede utilizarse:
 
 ```bash id="aannd3"
-nslookup uniremington.edu.co
+nslookup example.com
 ```
 
 El comando realiza una consulta DNS y puede mostrar información asociada con el dominio.
