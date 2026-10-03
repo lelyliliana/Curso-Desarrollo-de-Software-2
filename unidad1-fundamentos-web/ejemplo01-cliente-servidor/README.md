@@ -1,5 +1,7 @@
 # Ejemplo 01 - Comunicación cliente-servidor
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 1 - Fundamentos de programación web
 
 Este ejemplo permite comprender de manera práctica cómo funciona la comunicación entre un cliente y un servidor utilizando el protocolo HTTP.
@@ -1438,3 +1440,11 @@ El cliente realiza solicitudes utilizando HTTP y el servidor procesa esas solici
 En los siguientes ejemplos se profundizará en el protocolo HTTP utilizando diferentes métodos, encabezados, cuerpos de solicitudes y códigos de estado.
 
 Este conocimiento será posteriormente aplicado en tecnologías de Front End y Back End como React y Spring Boot.
+
+---
+
+## Continuar la práctica
+
+- **Volver a la unidad:** [Unidad 1 - Fundamentos de programación web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 02 - Métodos HTTP, Request y Response](../ejemplo02-http/README.md)

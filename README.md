@@ -1,5 +1,11 @@
 # Desarrollo de Software II
 
+**[Comenzar el curso: Unidad 1 - Fundamentos de programación web](unidad1-fundamentos-web/README.md)**
+
+Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa **Siguiente unidad** para avanzar; **Unidad anterior** y **Volver al índice** te permiten regresar.
+
+[Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Repositorio de ejemplos prácticos y recursos de apoyo del curso **Desarrollo de Software II**.
 
 Los contenidos están organizados de manera progresiva para comprender el desarrollo de una aplicación web desde sus fundamentos hasta la construcción de interfaces, desarrollo Front End, desarrollo Back End, persistencia, pruebas, integración con servicios externos y conceptos básicos de despliegue en la nube.

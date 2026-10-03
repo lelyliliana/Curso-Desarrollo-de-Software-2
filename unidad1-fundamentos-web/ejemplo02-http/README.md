@@ -1,5 +1,7 @@
 # Ejemplo 02 - Métodos HTTP, Request y Response
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 1 - Fundamentos de programación web
 
 Este ejemplo permite experimentar directamente con el protocolo HTTP y observar cómo cambia una solicitud dependiendo del método utilizado, la URL, los encabezados y el cuerpo enviado.
@@ -1216,3 +1218,13 @@ Un Request puede variar según el método utilizado, la URL solicitada, los Head
 El servidor procesa dicha solicitud y genera un Response que contiene un código de estado, Headers y, cuando corresponde, un Body.
 
 Comprender estos elementos será fundamental cuando posteriormente se desarrollen y consuman APIs REST utilizando React y Spring Boot.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 01 - Comunicación cliente-servidor](../ejemplo01-cliente-servidor/README.md)
+- **Volver a la unidad:** [Unidad 1 - Fundamentos de programación web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 03 - JSON y XML](../ejemplo03-json-xml/README.md)

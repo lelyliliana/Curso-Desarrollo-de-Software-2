@@ -1,5 +1,7 @@
 # Unidad 2 - Introducción a las interfaces de usuario web
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Esta unidad aborda los fundamentos necesarios para construir interfaces web y agregarles comportamiento mediante JavaScript.
 
 El módulo organiza la unidad alrededor de tres grandes temas:
@@ -1223,3 +1225,13 @@ HTML proporciona la estructura, CSS define la presentación y JavaScript permite
 El diseño responsivo y la accesibilidad complementan estos conocimientos al considerar diferentes dispositivos y formas de interacción.
 
 Finalmente, las características modernas de JavaScript preparan la base necesaria para continuar con el desarrollo Front End basado en React.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 1 - Fundamentos de programación web](../unidad1-fundamentos-web/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Comenzar los ejemplos:** [Ejemplo 01 - Fundamentos de HTML y CSS](ejemplo01-html-css/README.md)
+- **Siguiente unidad:** [Unidad 3 - Desarrollo Front End con React](../unidad3-react/README.md)

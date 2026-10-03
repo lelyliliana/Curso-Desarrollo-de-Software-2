@@ -1,5 +1,7 @@
 # Ejemplo 02 - Despliegue de una aplicación web
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 5 - Introducción a la computación en la nube
 
 Este ejemplo permite relacionar los conceptos de computación en la nube con el proceso de **despliegue de una aplicación web**.
@@ -1379,3 +1381,14 @@ En React, el proceso comienza generando una versión optimizada mediante `npm ru
 El despliegue también exige gestionar correctamente URLs, variables de entorno, CORS, HTTPS, credenciales y bases de datos.
 
 Comprender este flujo permite conectar todos los contenidos del curso: desde los fundamentos HTTP hasta la construcción de interfaces con React, servicios Back End con Spring Boot, persistencia y publicación en Internet.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 01 - Modelos de computación en la nube](../ejemplo01-modelos-nube/README.md)
+- **Volver a la unidad:** [Unidad 5 - Introducción a la computación en la nube](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+
+Completaste los ejemplos de la última unidad. Vuelve a la unidad para revisar las actividades y comprobaciones.

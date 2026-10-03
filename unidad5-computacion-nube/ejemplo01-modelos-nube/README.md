@@ -1,5 +1,7 @@
 # Ejemplo 01 - Modelos de computación en la nube
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 5 - Introducción a la computación en la nube
 
 Este ejemplo permite comparar los principales **tipos de nube** y **modelos de servicio** utilizados en computación en la nube.
@@ -1127,3 +1129,13 @@ Los tipos de nube permiten analizar cómo se dispone la infraestructura, mientra
 IaaS proporciona mayor control sobre la infraestructura, PaaS facilita el despliegue de aplicaciones al administrar una parte más amplia del entorno y SaaS ofrece directamente software listo para utilizar.
 
 Comprender estas diferencias facilita seleccionar una alternativa adecuada según las necesidades técnicas, económicas y de seguridad de cada solución.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 04 - Consumo de una API externa desde Spring Boot](../../unidad4-backend/ejemplo04-consumo-api-externa/README.md)
+- **Volver a la unidad:** [Unidad 5 - Introducción a la computación en la nube](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 02 - Despliegue de una aplicación web](../ejemplo02-despliegue/README.md)

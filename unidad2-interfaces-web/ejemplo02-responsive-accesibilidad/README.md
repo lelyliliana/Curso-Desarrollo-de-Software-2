@@ -1,5 +1,7 @@
 # Ejemplo 02 - Diseño responsivo y accesibilidad
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 2 - Introducción a las interfaces de usuario web
 
 Este ejemplo permite observar cómo una interfaz web puede adaptarse a diferentes tamaños de pantalla y cómo pueden aplicarse prácticas básicas de accesibilidad desde el momento en que se construye la página.
@@ -942,3 +944,13 @@ Una interfaz web no debe diseñarse únicamente pensando en una pantalla de comp
 El diseño responsivo permite adaptar la presentación a diferentes tamaños de pantalla, mientras que la accesibilidad busca facilitar la utilización de la aplicación por personas con diferentes formas de interacción y necesidades.
 
 Ambos aspectos deben considerarse desde el inicio del desarrollo de una interfaz web.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 01 - Fundamentos de HTML y CSS](../ejemplo01-html-css/README.md)
+- **Volver a la unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 03 - Manipulación del DOM con JavaScript](../ejemplo03-dom/README.md)

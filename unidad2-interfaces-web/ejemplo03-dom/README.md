@@ -1,5 +1,7 @@
 # Ejemplo 03 - Manipulación del DOM con JavaScript
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 2 - Introducción a las interfaces de usuario web
 
 Este ejemplo permite comprender cómo JavaScript puede acceder a los elementos de una página HTML y modificar dinámicamente su contenido.
@@ -1652,3 +1654,13 @@ El DOM permite que JavaScript interactúe directamente con la estructura de una 
 Gracias a él es posible responder a las acciones del usuario, modificar textos, crear elementos, eliminar contenido y construir interfaces dinámicas.
 
 Este conocimiento constituye una base importante para comprender posteriormente cómo librerías como React permiten desarrollar interfaces de usuario de forma más organizada.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 02 - Diseño responsivo y accesibilidad](../ejemplo02-responsive-accesibilidad/README.md)
+- **Volver a la unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 04 - JavaScript moderno](../ejemplo04-javascript-moderno/README.md)

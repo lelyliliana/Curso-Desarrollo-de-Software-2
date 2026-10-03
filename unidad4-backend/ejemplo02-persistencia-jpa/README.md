@@ -1,5 +1,7 @@
 # Ejemplo 02 - Persistencia con JPA y Spring Data
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 4 - Desarrollo Back End
 
 Este ejemplo introduce la persistencia de información en aplicaciones Spring Boot.
@@ -1020,3 +1022,13 @@ La persistencia permite que una aplicación gestione información de manera estr
 Spring Data JPA facilita la relación entre objetos Java y registros de una base de datos, mientras que los repositorios permiten realizar operaciones CRUD sin implementar manualmente cada consulta básica.
 
 La arquitectura Controller - Service - Repository ayuda a separar responsabilidades y prepara la aplicación para integrar un Front End React con un Back End Spring Boot y una base de datos.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 01 - Fundamentos de Spring Boot y APIs REST](../ejemplo01-fundamentos-spring/README.md)
+- **Volver a la unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 03 - Pruebas automatizadas del Back End](../ejemplo03-pruebas-backend/README.md)

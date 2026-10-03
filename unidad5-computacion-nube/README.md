@@ -1,5 +1,7 @@
 # Unidad 5 - Introducción a la computación en la nube
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Esta unidad introduce los conceptos fundamentales de la computación en la nube y su relación con el desarrollo de aplicaciones web.
 
 El módulo institucional aborda:
@@ -981,3 +983,14 @@ Para un desarrollador, uno de los usos más importantes consiste en desplegar ap
 Después de construir un Front End con React y un Back End con Spring Boot, el siguiente paso natural es preparar y publicar estos componentes en un ambiente accesible desde Internet.
 
 La nube proporciona múltiples alternativas para realizar este proceso, desde infraestructura administrada directamente por el usuario hasta plataformas que automatizan gran parte del despliegue.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 4 - Desarrollo Back End con Spring Boot](../unidad4-backend/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Comenzar los ejemplos:** [Ejemplo 01 - Modelos de computación en la nube](ejemplo01-modelos-nube/README.md)
+
+Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.

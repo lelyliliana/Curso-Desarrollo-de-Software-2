@@ -1,5 +1,7 @@
 # Ejemplo 01 - Fundamentos de Spring Boot y APIs REST
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 4 - Desarrollo Back End
 
 En esta unidad se utiliza Spring Boot para desarrollar aplicaciones del lado del servidor y construir APIs REST.
@@ -561,3 +563,13 @@ Spring Boot permite implementar el lado servidor de una aplicación web mediante
 Los conceptos de HTTP estudiados previamente adquieren aquí una implementación concreta: los Controllers reciben Requests, los Services ejecutan la lógica necesaria y la aplicación genera Responses con códigos HTTP y cuerpos JSON.
 
 Los ejemplos completos se encuentran disponibles en el repositorio de Lenguaje de Programación III, evitando duplicar código y manteniendo una única fuente actualizada para estos fundamentos.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 03 - Pruebas de componentes React](../../unidad3-react/ejemplo03-pruebas-react/README.md)
+- **Volver a la unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 02 - Persistencia con JPA y Spring Data](../ejemplo02-persistencia-jpa/README.md)

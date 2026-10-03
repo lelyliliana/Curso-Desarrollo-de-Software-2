@@ -1,5 +1,7 @@
 # Unidad 4 - Desarrollo Back End con Spring Boot
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Esta unidad aborda el desarrollo del lado del servidor utilizando Spring Boot.
 
 El módulo institucional incluye fundamentos de Spring Boot, organización mediante Controller y Service, integración con bases de datos, pruebas automatizadas y consumo de APIs externas.
@@ -1011,3 +1013,13 @@ Los Controllers reciben solicitudes HTTP, los Services coordinan la lógica, los
 Además, Spring Boot puede consumir APIs externas mediante clientes HTTP, lo que permite integrar múltiples fuentes de información.
 
 Al finalizar esta unidad ya es posible comprender una arquitectura completa que conecte React, Spring Boot, una base de datos y servicios externos.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 3 - Desarrollo Front End con React](../unidad3-react/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Comenzar los ejemplos:** [Ejemplo 01 - Fundamentos de Spring Boot y APIs REST](ejemplo01-fundamentos-spring/README.md)
+- **Siguiente unidad:** [Unidad 5 - Introducción a la computación en la nube](../unidad5-computacion-nube/README.md)

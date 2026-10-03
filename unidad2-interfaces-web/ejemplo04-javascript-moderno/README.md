@@ -1,5 +1,7 @@
 # Ejemplo 04 - JavaScript moderno
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 2 - Introducción a las interfaces de usuario web
 
 Este ejemplo reúne diferentes características de JavaScript moderno que permiten escribir código más claro, expresivo y reutilizable.
@@ -1643,3 +1645,13 @@ JavaScript moderno incorpora sintaxis y estructuras que facilitan la escritura d
 Estas características son especialmente importantes porque aparecerán frecuentemente al desarrollar interfaces modernas, manipular colecciones de objetos, consumir servicios web y trabajar posteriormente con React.
 
 El propósito de estos ejemplos no es memorizar cada sintaxis, sino reconocerla, comprender qué problema resuelve y saber cuándo puede resultar útil.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 03 - Manipulación del DOM con JavaScript](../ejemplo03-dom/README.md)
+- **Volver a la unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente unidad:** [Unidad 3 - Desarrollo Front End con React](../../unidad3-react/README.md)

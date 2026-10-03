@@ -1,5 +1,7 @@
 # Ejemplo 03 - Pruebas de componentes React
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 3 - Desarrollo Front End con React
 
 Este ejemplo introduce las pruebas automatizadas de componentes React.
@@ -1878,3 +1880,13 @@ El uso de Vitest y React Testing Library permite renderizar componentes, simular
 Además, la limpieza del DOM después de cada prueba garantiza que los casos sean independientes y que los componentes renderizados anteriormente no interfieran con las pruebas siguientes.
 
 Este enfoque ayuda a detectar errores después de realizar modificaciones y facilita el mantenimiento de aplicaciones React de mayor tamaño.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 02 - Consumo de API con React](../ejemplo02-consumo-api/README.md)
+- **Volver a la unidad:** [Unidad 3 - Desarrollo Front End con React](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../../unidad4-backend/README.md)

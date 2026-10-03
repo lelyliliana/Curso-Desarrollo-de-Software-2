@@ -1,5 +1,7 @@
 # Ejemplo 01 - Fundamentos de React
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 3 - Desarrollo Front End con React
 
 Los fundamentos de React utilizados en esta unidad ya se encuentran desarrollados mediante laboratorios progresivos en el repositorio del curso **Lenguaje de Programación II**.
@@ -561,3 +563,13 @@ Los fundamentos de React requeridos en Desarrollo de Software II se encuentran d
 En lugar de duplicar los mismos proyectos, este curso utiliza esos laboratorios como fuente de referencia y concentra sus recursos propios en los contenidos adicionales que requieren un tratamiento específico.
 
 El siguiente paso dentro de esta unidad será profundizar en el consumo de APIs y en las pruebas de componentes React.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 04 - JavaScript moderno](../../unidad2-interfaces-web/ejemplo04-javascript-moderno/README.md)
+- **Volver a la unidad:** [Unidad 3 - Desarrollo Front End con React](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 02 - Consumo de API con React](../ejemplo02-consumo-api/README.md)

@@ -1,5 +1,7 @@
 # Unidad 3 - Desarrollo Front End con React
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Esta unidad introduce el desarrollo de interfaces modernas utilizando React.
 
 El módulo institucional aborda React mediante componentes, JSX, estado, Props, pruebas y consumo de APIs.
@@ -1141,3 +1143,13 @@ Los fundamentos desarrollados previamente con HTML, CSS, JavaScript y DOM se int
 El consumo de APIs permite conectar el Front End con servicios externos, mientras que las pruebas automatizadas ayudan a comprobar que los componentes mantienen el comportamiento esperado.
 
 Estos conocimientos preparan el camino para la siguiente unidad, donde se desarrollará el Back End utilizando Spring Boot y posteriormente se podrá establecer una arquitectura completa Front End - Back End.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 2 - Introducción a las interfaces de usuario web](../unidad2-interfaces-web/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Comenzar los ejemplos:** [Ejemplo 01 - Fundamentos de React](ejemplo01-fundamentos-react/README.md)
+- **Siguiente unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../unidad4-backend/README.md)

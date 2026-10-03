@@ -4,6 +4,8 @@
 :::writing{variant="document" id="63158" title="README - Ejemplo 04 Arquitecturas web"}
 # Ejemplo 04 - Arquitecturas web
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 1 - Fundamentos de programación web
 
 Este ejemplo permite reconocer diferentes formas de organizar una aplicación web y comprender cómo han evolucionado las responsabilidades del cliente y del servidor.
@@ -1062,3 +1064,13 @@ En algunas arquitecturas, el servidor asume gran parte de la responsabilidad. En
 Las arquitecturas basadas en microservicios permiten distribuir responsabilidades entre varios servicios, mientras que las alternativas serverless delegan parte de la administración de infraestructura a proveedores especializados.
 
 Los conceptos estudiados en este ejemplo permiten comprender mejor la arquitectura que se utilizará posteriormente al integrar un Front End desarrollado con React, un Back End desarrollado con Spring Boot y una base de datos.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 03 - JSON y XML](../ejemplo03-json-xml/README.md)
+- **Volver a la unidad:** [Unidad 1 - Fundamentos de programación web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../../unidad2-interfaces-web/README.md)

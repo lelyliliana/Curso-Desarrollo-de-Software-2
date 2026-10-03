@@ -1,5 +1,7 @@
 # Ejemplo 03 - JSON y XML
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 1 - Fundamentos de programación web
 
 Este ejemplo permite comparar dos formatos utilizados para representar e intercambiar información: **JSON** y **XML**.
@@ -590,3 +592,13 @@ JSON y XML permiten representar información de forma estructurada.
 Aunque utilizan sintaxis diferentes, ambos pueden representar los mismos datos y permitir que diferentes aplicaciones intercambien información.
 
 En los ejemplos posteriores del curso se utilizará principalmente JSON para la comunicación entre aplicaciones Front End y servicios Back End.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 02 - Métodos HTTP, Request y Response](../ejemplo02-http/README.md)
+- **Volver a la unidad:** [Unidad 1 - Fundamentos de programación web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 04 - Arquitecturas web](../ejemplo04-arquitecturas-web/README.md)

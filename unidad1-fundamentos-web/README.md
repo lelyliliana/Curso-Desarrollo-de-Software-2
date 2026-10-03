@@ -1,5 +1,7 @@
 # Unidad 1 - Fundamentos de programación web
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/fullstack/)
+
 Esta unidad introduce los conceptos fundamentales que permiten comprender cómo funciona una aplicación web y cómo se establece la comunicación entre clientes y servidores.
 
 A lo largo de los ejemplos se estudian los elementos básicos del protocolo HTTP, los formatos utilizados para intercambiar información y algunas arquitecturas comunes en aplicaciones web.
@@ -1042,3 +1044,12 @@ La Unidad 1 proporciona las bases necesarias para comprender cómo funcionan las
 Antes de desarrollar interfaces o servicios complejos es fundamental comprender quién realiza una solicitud, quién responde, qué protocolo permite la comunicación, cómo se identifican los recursos y cómo se representa la información intercambiada.
 
 Estos fundamentos serán utilizados de forma permanente en las siguientes unidades, especialmente al desarrollar interfaces con JavaScript y React, consumir APIs y construir servicios Back End con Spring Boot.
+
+
+---
+
+## Continuar el curso
+
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Comenzar los ejemplos:** [Ejemplo 01 - Comunicación cliente-servidor](ejemplo01-cliente-servidor/README.md)
+- **Siguiente unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../unidad2-interfaces-web/README.md)

@@ -1,5 +1,7 @@
 # Ejemplo 03 - Pruebas automatizadas del Back End
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 4 - Desarrollo Back End
 
 Este ejemplo introduce las pruebas automatizadas aplicadas a una API desarrollada con Spring Boot.
@@ -1079,3 +1081,13 @@ Las pruebas automatizadas permiten verificar que la lógica del Back End y los e
 JUnit proporciona la estructura de las pruebas, Mockito permite aislar dependencias mediante mocks y MockMvc facilita comprobar el comportamiento de los Controllers.
 
 Estos recursos ayudan a detectar errores tempranamente y hacen más seguro modificar una aplicación a medida que aumenta su complejidad.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 02 - Persistencia con JPA y Spring Data](../ejemplo02-persistencia-jpa/README.md)
+- **Volver a la unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 04 - Consumo de una API externa desde Spring Boot](../ejemplo04-consumo-api-externa/README.md)

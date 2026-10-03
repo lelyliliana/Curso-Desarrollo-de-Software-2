@@ -1,5 +1,7 @@
 # Ejemplo 04 - Consumo de una API externa desde Spring Boot
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 4 - Desarrollo Back End
 
 Este ejemplo aborda la integración de una aplicación Spring Boot con servicios web externos.
@@ -1165,3 +1167,13 @@ Una aplicación Back End no solamente recibe solicitudes: también puede necesit
 La separación entre Controller, Service y cliente externo ayuda a mantener una arquitectura organizada y facilita el manejo de errores, las pruebas y el mantenimiento.
 
 Este tipo de integración es fundamental en aplicaciones modernas, donde una solución suele depender de múltiples servicios internos y externos.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 03 - Pruebas automatizadas del Back End](../ejemplo03-pruebas-backend/README.md)
+- **Volver a la unidad:** [Unidad 4 - Desarrollo Back End con Spring Boot](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente unidad:** [Unidad 5 - Introducción a la computación en la nube](../../unidad5-computacion-nube/README.md)

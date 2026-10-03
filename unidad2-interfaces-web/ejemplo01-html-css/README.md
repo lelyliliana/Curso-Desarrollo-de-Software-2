@@ -1,5 +1,7 @@
 # Ejemplo 01 - Fundamentos de HTML y CSS
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 2 - Introducción a las interfaces de usuario web
 
 En esta unidad se retoman los fundamentos de **HTML y CSS** necesarios para construir interfaces web.
@@ -186,3 +188,13 @@ HTML y CSS constituyen la base de las interfaces web.
 En Desarrollo de Software II estos conocimientos se consideran punto de partida para avanzar hacia interfaces más dinámicas y modernas.
 
 Los ejemplos detallados pueden consultarse en el repositorio de **Lenguaje de Programación II**, evitando así duplicar material y manteniendo una única fuente de referencia para estos fundamentos.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 04 - Arquitecturas web](../../unidad1-fundamentos-web/ejemplo04-arquitecturas-web/README.md)
+- **Volver a la unidad:** [Unidad 2 - Introducción a las interfaces de usuario web](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 02 - Diseño responsivo y accesibilidad](../ejemplo02-responsive-accesibilidad/README.md)

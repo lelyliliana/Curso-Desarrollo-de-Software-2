@@ -1,5 +1,7 @@
 # Ejemplo 02 - Consumo de API con React
 
+[Volver a la unidad](../README.md) · [Volver al índice del curso](../../README.md)
+
 ## Unidad 3 - Desarrollo Front End con React
 
 Este ejemplo permite aplicar los conceptos de comunicación cliente-servidor estudiados en la Unidad 1 dentro de una aplicación React.
@@ -884,3 +886,13 @@ El consumo de APIs permite que una interfaz React utilice información proporcio
 En este proceso se integran los fundamentos estudiados previamente: cliente-servidor, HTTP, Request, Response y JSON.
 
 Este mismo principio será utilizado posteriormente para comunicar aplicaciones React con servicios Back End desarrollados mediante Spring Boot.
+
+
+---
+
+## Continuar la práctica
+
+- **Ejemplo anterior:** [Ejemplo 01 - Fundamentos de React](../ejemplo01-fundamentos-react/README.md)
+- **Volver a la unidad:** [Unidad 3 - Desarrollo Front End con React](../README.md)
+- **Volver al índice:** [Todas las unidades](../../README.md)
+- **Siguiente ejemplo:** [Ejemplo 03 - Pruebas de componentes React](../ejemplo03-pruebas-react/README.md)
